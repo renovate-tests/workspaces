@@ -1,0 +1,14 @@
+{
+  "name": "workspaces",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "renovate": {},
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
