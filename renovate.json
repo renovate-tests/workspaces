@@ -1,4 +1,4 @@
 {
   "extends": [":library"],
-  "ignorePaths": ["examples/"]
+  "ignorePaths": ["node_modules/", "examples/"]
 }
