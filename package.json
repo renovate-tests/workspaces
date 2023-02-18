@@ -20,7 +20,7 @@
     "babel-preset-react-native": "1.9.1",
     "browserify": "14.4.0",
     "chalk": "2.0.1",
-    "codecov": "^1.0.1",
+    "codecov": "^3.0.0",
     "cross-spawn": "5.1.0",
     "debug": "^2.6.8",
     "enzyme": "2.8.2",
