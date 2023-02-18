@@ -22,6 +22,6 @@
   },
   "devDependencies": {
     "crowdin-cli": "^0.3.0",
-    "shelljs": "^0.7.5"
+    "shelljs": "^0.8.5"
   }
 }
